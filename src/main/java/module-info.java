@@ -1,7 +1,7 @@
 module com.xingray.javafx.candleview {
     requires javafx.graphics;
 
-    requires com.xing.javafx.view;
+    requires com.xingray.javafx.view;
     requires com.xingray.java.view;
     requires com.xingray.java.base;
     requires com.xingray.java.collection;
